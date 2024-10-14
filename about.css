@@ -1,0 +1,197 @@
+.sucheta-icon {
+    position: absolute;
+    top: 73px;
+    left: 72px;
+    width: 166px;
+    height: 73px;
+}
+.work {
+    position: absolute;
+    top: 102px;
+    left: 987px;
+  display: inline-block; 
+  text-decoration: none; 
+  transition: text-decoration 0.5s ease; 
+  color: #1e1e1e
+}
+.work:hover {
+  text-decoration: underline; 
+  color: #1e1e1e
+}
+
+.bio {
+    position: absolute;
+    top: 260px;
+    left: 512px;
+    font-family: Granville;
+}
+.programs {
+    position: absolute;
+    top: 590px;
+    left: 512px;
+    font-family: Granville;
+}
+.industry-knowledge {
+    position: absolute;
+    top: 717px;
+    left: 512px;
+    font-family: Granville;
+}
+.languages {
+    position: absolute;
+    top: 844px;
+    left: 512px;
+    font-family: Granville;
+}
+.play {
+    position: absolute;
+    top: 102px;
+    left: 1107px;
+  display: inline-block; 
+  text-decoration: none; 
+  transition: text-decoration 0.5s ease; 
+}
+.play:hover {
+  text-decoration: underline; 
+}
+
+.about1 {
+    position: absolute;
+    top: 102px;
+    left: 1199px;
+  display: inline-block; 
+  text-decoration: none; 
+  transition: text-decoration 0.5s ease; 
+}
+.about1:hover {
+  text-decoration: underline; 
+}
+
+.contact {
+    position: absolute;
+    top: 102px;
+    left: 1291px;
+  display: inline-block; 
+  text-decoration: none; 
+  transition: text-decoration 0.5s ease; 
+}
+
+.contact:hover {
+  text-decoration: underline; 
+}
+.about-child {
+    position: absolute;
+    top: 136px;
+    left: 1196px;
+    max-height: 100%;
+    width: 62px;
+}
+.myface-icon {
+    position: absolute;
+    top: 259.97px;
+    left: 72px;
+    width: 416px;
+    height: 656px;
+    object-fit: cover;
+  transition: border-radius 0.3s ease;
+}
+
+.myface-icon:hover {
+  border-radius: 50px;
+}
+
+.sucheta-is-currently {
+    margin: 0;
+}
+.sucheta-is-currently-container {
+    position: absolute;
+    top: 311px;
+    left: calc(50% - 208px);
+    font-size: 20px;
+    display: inline-block;
+    width: 856px;
+}
+.adobe-suite-photoshop {
+    position: absolute;
+    top: 641px;
+    left: calc(50% - 208px);
+    font-size: 20px;
+    display: inline-block;
+    width: 856px;
+}
+.design-research-ideation {
+    position: absolute;
+    top: 768px;
+    left: calc(50% - 208px);
+    font-size: 20px;
+    display: inline-block;
+    width: 856px;
+}
+.english-marathi-hindi {
+    position: absolute;
+    top: 895px;
+    left: calc(50% - 208px);
+    font-size: 20px;
+    display: inline-block;
+    width: 856px;
+}
+.div {
+    position: absolute;
+    top: 1234px;
+    left: 655px;
+    font-size: 16px;
+}
+.sucheta-rane-2024 {
+    position: absolute;
+    top: 1232px;
+    left: 682px;
+    font-size: 16px;
+}
+.about-item {
+    position: absolute;
+    top: 1060.5px;
+    left: 71.5px;
+    border-top: 1px solid #1e1e1e;
+    box-sizing: border-box;
+    width: 1297px;
+    height: 1px;
+}
+.twittericon {
+    position: absolute;
+    top: 1190px;
+    left: 657px;
+    width: 24px;
+    height: 24px;
+}
+.instagramicon {
+    position: absolute;
+    top: 1190px;
+    left: 696.98px;
+    width: 24px;
+    height: 24px;
+}
+.youtubeicon {
+    position: absolute;
+    top: 1193px;
+    left: 736.98px;
+    width: 24px;
+    height: 18px;
+}
+.linkedinicon {
+    position: absolute;
+    top: 1190px;
+    left: 776.98px;
+    width: 24px;
+    height: 24px;
+}
+.about {
+    width: 100%;
+    position: relative;
+    background-color: #f1f1ef;
+    height: 1330px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #1e1e1e;
+    font-family: 'HvDTrial Brandon Grotesque';
+}

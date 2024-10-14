@@ -1,0 +1,243 @@
+.sucheta-icon {
+    position: absolute;
+    top: 73px;
+    left: 55px;
+    width: 166px;
+    height: 73px;
+}
+.work1 {
+    position: absolute;
+    top: 102px;
+    left: 987px;
+  display: inline-block; /* Underline effect */
+  text-decoration: none; 
+  transition: text-decoration 0.5s ease; 
+  color:#1e1e1e
+}
+.work1:hover {
+  text-decoration: underline;
+  color: #1e1e1e
+}
+.play {
+    position: absolute;
+    top: 102px;
+    left: 1107px;
+  display: inline-block; 
+  text-decoration: none; 
+  transition: text-decoration 0.5s ease; 
+}
+.play:hover {
+  text-decoration: underline; 
+}
+.about {
+    position: absolute;
+    top: 102px;
+    left: 1199px;
+  display: inline-block; 
+  text-decoration: none; 
+  transition: text-decoration 0.5s ease; 
+  color: #1e1e1e
+}
+.about:hover {
+  text-decoration: underline; 
+  color: #1e1e1e
+}
+.contact {
+    position: absolute;
+    top: 102px;
+    left: 1291px;
+  display: inline-block; 
+  text-decoration: none; 
+  transition: text-decoration 0.5s ease; 
+}
+.contact:hover {
+  text-decoration: underline; 
+}
+.scroll-to-the {
+    position: absolute;
+    top: 1565px;
+    left: 1240px;
+  display: none; /* Hidden by default */
+  padding: 20px 20px;
+  color: #1e1e1e;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.5s ease; 
+}
+
+.scroll-to-the:hover {
+  color: #1e1e1e;
+  transform: scale(1.1)
+} 
+
+.div {
+    position: absolute;
+    top: 1784px;
+    left: 655px;
+    font-size: 16px;
+}
+.sucheta-rane-2024 {
+    position: absolute;
+    top: 1782px;
+    left: 682px;
+    font-size: 16px;
+}
+.hi-im-sucheta {
+    position: absolute;
+    top: 250px;
+    left: calc(50% - 562px);
+    font-size: 36px;
+    letter-spacing: 0.01em;
+    display: inline-block;
+    font-family: Granville;
+    color: #323749;
+    text-align: center;
+    width: 1124px;
+}
+.tombofthemask-icon {
+    position: absolute;
+    top: 493px;
+    left: 402px;
+    width: 306px;
+    height: 306px;
+    object-fit: cover;
+}
+.primecasestudy-icon {
+    position: absolute;
+    top: 493px;
+    left: 732px;
+    width: 636px;
+    height: 357px;
+    object-fit: cover;
+}
+.graphiccube-icon {
+    position: absolute;
+    top: 821px;
+    left: 402px;
+    width: 306px;
+    height: 290px;
+    object-fit: cover;
+}
+.servicedesign-icon {
+    position: absolute;
+    top: 872px;
+    left: 732px;
+    width: 636px;
+    height: 397px;
+    object-fit: cover;
+}
+.pageline {
+    position: absolute;
+    top: 1610.5px;
+    left: 71.5px;
+    border-top: 1px solid #1e1e1e;
+    box-sizing: border-box;
+    width: 1297px;
+    height: 1px;
+}
+.twittericon {
+    position: absolute;
+    height: 1.28%;
+    width: 1.67%;
+    top: 92.55%;
+    right: 52.71%;
+    bottom: 6.17%;
+    left: 45.63%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.instagramicon {
+    position: absolute;
+    height: 1.28%;
+    width: 1.67%;
+    top: 92.55%;
+    right: 49.93%;
+    bottom: 6.17%;
+    left: 48.4%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.youtubeicon {
+    position: absolute;
+    height: 0.96%;
+    width: 1.67%;
+    top: 92.71%;
+    right: 47.15%;
+    bottom: 6.33%;
+    left: 51.18%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.linkedinicon {
+    position: absolute;
+    height: 1.28%;
+    width: 1.67%;
+    top: 92.55%;
+    right: 44.38%;
+    bottom: 6.17%;
+    left: 53.96%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.bookish-icon {
+    position: absolute;
+    top: 493px;
+    left: 72px;
+    width: 306px;
+    height: 306px;
+    object-fit: cover;
+}
+.heelarious-icon {
+    position: absolute;
+    top: 821px;
+    left: 72px;
+    width: 306px;
+    height: 290px;
+    object-fit: cover;
+}
+.tedx-icon {
+    position: absolute;
+    top: 1133px;
+    left: 72px;
+    width: 636px;
+    height: 318px;
+    object-fit: cover;
+}
+.kinetictypo-icon {
+    position: absolute;
+    top: 1291px;
+    left: 732px;
+    width: 636px;
+    height: 160px;
+    object-fit: cover;
+}
+.work {
+    width: 100%;
+    position: relative;
+    background-color: #f1f1ef;
+    height: 1880px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #1e1e1e;
+    font-family: 'HvDTrial Brandon Grotesque';
+}
+
+.hover-transition {
+  transition: transform 0.5s ease, opacity 0.5s ease; 
+}
+
+.hover-transition:hover {
+  transform: scale(1.05); 
+  opacity: 0.5; 
+}
+.no-transition {
+  width: 200px; 
+  transition: none; 
+}
+
